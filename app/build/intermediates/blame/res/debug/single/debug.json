@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_image.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/image.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_sound2.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/sound2.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/layout_activity_second.xml.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_play.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/raw_music1.mp3.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/raw/music1.mp3"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/raw_music.mp3.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/raw/music.mp3"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_sound.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/sound.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_stop.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/stop.png"
+    }
+]
