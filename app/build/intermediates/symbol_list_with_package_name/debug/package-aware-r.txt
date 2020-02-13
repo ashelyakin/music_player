@@ -652,6 +652,7 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable back
+drawable back_btn
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -769,6 +770,7 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id edit_text
 id elapsedTimeLabel
 id elapsedTimeLabel1
 id end
@@ -918,6 +920,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_choose
 layout activity_main
 layout activity_second
 layout custom_dialog
@@ -964,6 +967,7 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string ch_text
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat

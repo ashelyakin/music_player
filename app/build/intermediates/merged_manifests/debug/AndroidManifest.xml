@@ -28,6 +28,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.music_player.SecondActivity" />
+        <activity android:name="com.example.music_player.ChooseActivity" />
     </application>
 
 </manifest>

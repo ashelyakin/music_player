@@ -36,7 +36,7 @@ class MainActivity : Activity() {
 
         val nextBtn = findViewById<Button>(R.id.secondActivityBtn)
         nextBtn.setOnClickListener {
-            val i = Intent(this, SecondActivity::class.java)
+            val i = Intent(this, ChooseActivity::class.java)
             startActivity(i)
         }
 

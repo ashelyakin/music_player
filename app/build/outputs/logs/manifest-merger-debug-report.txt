@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/andrew/.gradle/caches/transforms-2/files-2.1/a582fa6f5ec25b4ebdf31a91e28d5f0d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.1.0] /home/andrew/.gradle/caches/transforms-2/files-2.1/06a0e8784fe7636b43af8b9cba1c7541/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/andrew/.gradle/caches/transforms-2/files-2.1/96cdaff78c50e61d15d0649ac640ca88/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
@@ -26,20 +26,20 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/andrew/.gradle/cach
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/andrew/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/andrew/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/andrew/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml
 		INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml
-		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml
-		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:2:11-69
@@ -48,7 +48,7 @@ ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/Androi
 	android:name
 		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:4:22-78
 application
-ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:6:5-22:19
+ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:6:5-23:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/andrew/.gradle/caches/transforms-2/files-2.1/96cdaff78c50e61d15d0649ac640ca88/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/andrew/.gradle/caches/transforms-2/files-2.1/96cdaff78c50e61d15d0649ac640ca88/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.1.0] /home/andrew/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:5-89
@@ -87,6 +87,10 @@ activity#com.example.music_player.SecondActivity
 ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:21:9-51
 	android:name
 		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:21:19-49
+activity#com.example.music_player.ChooseActivity
+ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml:22:19-49
 uses-sdk
 INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/andrew/Рабочий стол/music_player/app/src/main/AndroidManifest.xml

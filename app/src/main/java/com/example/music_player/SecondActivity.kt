@@ -23,10 +23,13 @@ class SecondActivity: Activity() {
     private lateinit var mp1: MediaPlayer
     private var totalTime: Int = 0
     private var totalTime1: Int = 0
+    private var cross = 5
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
+
+        cross = intent.getStringExtra("text").toInt()
 
         findViewById<Button>(R.id.backBtn).setOnClickListener {
             mp.stop()
@@ -141,7 +144,7 @@ class SecondActivity: Activity() {
             var remainingTime = createTimeLabel(totalTime - currentPosition)
             remainingTimeLabel.text = "-$remainingTime"
 
-            if (totalTime - currentPosition<=10000)
+            if (totalTime - currentPosition<=1000*cross)
                 mp1.start()
         }
     }
@@ -161,7 +164,7 @@ class SecondActivity: Activity() {
             var remainingTime = createTimeLabel1(totalTime1 - currentPosition)
             remainingTimeLabel1.text = "-$remainingTime"
 
-            if (totalTime1 - currentPosition<=10000)
+            if (totalTime1 - currentPosition<=1000*cross)
                 mp.start()
         }
     }
@@ -225,10 +228,6 @@ class SecondActivity: Activity() {
     override fun onKeyDown(keyCode: Int, event: KeyEvent?): Boolean {
         if (keyCode == KeyEvent.KEYCODE_BACK)
         {
-            /*var intent = Intent(Intent.ACTION_MAIN)
-            intent.addCategory(Intent.CATEGORY_HOME)
-            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-            startActivity(intent)*/
             mp.stop()
             mp1.stop()
             finish()

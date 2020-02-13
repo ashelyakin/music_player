@@ -104,6 +104,10 @@
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/icon.png"
     },
     {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_back_btn.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/back_btn.png"
+    },
+    {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
@@ -126,6 +130,10 @@
     {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
         "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/layout_activity_choose.xml.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/layout/activity_choose.xml"
     },
     {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
