@@ -7,6 +7,7 @@ import android.media.AudioManager
 import android.media.MediaPlayer
 import android.net.Uri
 import android.os.*
+import android.view.KeyEvent
 import android.view.View
 import android.widget.Button
 import android.widget.SeekBar
@@ -16,7 +17,7 @@ import java.io.File
 import java.nio.file.FileSystem
 
 @SuppressLint("Registered")
-class SecondActivity: AppCompatActivity() {
+class SecondActivity: Activity() {
 
     private lateinit var mp: MediaPlayer
     private lateinit var mp1: MediaPlayer
@@ -27,7 +28,7 @@ class SecondActivity: AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
 
-        findViewById<Button>(R.id.mainActivityBtn).setOnClickListener {
+        findViewById<Button>(R.id.backBtn).setOnClickListener {
             mp.stop()
             mp1.stop()
             finish()
@@ -219,6 +220,21 @@ class SecondActivity: AppCompatActivity() {
         }catch (e: InterruptedException) {
         }
 
+    }
+
+    override fun onKeyDown(keyCode: Int, event: KeyEvent?): Boolean {
+        if (keyCode == KeyEvent.KEYCODE_BACK)
+        {
+            /*var intent = Intent(Intent.ACTION_MAIN)
+            intent.addCategory(Intent.CATEGORY_HOME)
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            startActivity(intent)*/
+            mp.stop()
+            mp1.stop()
+            finish()
+            return true
+        }
+        return false
     }
 
 }

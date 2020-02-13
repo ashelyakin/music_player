@@ -40,6 +40,10 @@
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_back.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/back.png"
+    },
+    {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },

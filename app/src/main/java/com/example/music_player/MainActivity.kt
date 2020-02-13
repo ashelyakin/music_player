@@ -1,6 +1,7 @@
 package com.example.music_player
 
 import android.annotation.SuppressLint
+import android.app.Activity
 import android.content.Intent
 import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
@@ -12,7 +13,7 @@ import android.widget.Button
 import android.widget.SeekBar
 import kotlinx.android.synthetic.main.activity_main.*
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : Activity() {
 
     private lateinit var mp: MediaPlayer
     private lateinit var mp1: MediaPlayer
