@@ -36,12 +36,16 @@
         "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -64,6 +68,10 @@
         "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
     },
     {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
@@ -76,6 +84,10 @@
         "source": "/home/andrew/Рабочий стол/music_player/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
     },
     {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_play.png.flat",
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/play.png"
     },
@@ -84,8 +96,16 @@
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/raw/music1.mp3"
     },
     {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/icon.png"
+    },
+    {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -110,6 +130,10 @@
     {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_sound.png.flat",
         "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/drawable/sound.png"
+    },
+    {
+        "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrew/Рабочий стол/music_player/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/home/andrew/Рабочий стол/music_player/app/build/intermediates/res/merged/debug/drawable_stop.png.flat",
